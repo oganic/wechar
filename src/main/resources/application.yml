@@ -1,0 +1,17 @@
+server:
+  port: 9030
+
+system:
+  token: Oganic
+
+
+
+
+# 爬虫配置
+poolinghttpclientconnection:
+  maxTotal: 100
+  maxPerRoute: 10
+  setConnectTimeout: 1000
+  setConnectionRequestTimeout: 1000
+  setSocketTimeout: 10000
+
