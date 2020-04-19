@@ -1,6 +1,5 @@
-package com.example.wxrobot.function;
+package com.example.wxrobot.util;
 
-import com.example.wxrobot.util.HttpClientFind;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -8,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
-public class ParseHtml {
+public class BaiDuCloudUtils {
 
     private static final String url="http://wx.jqgcs123.com/s/comb/n-";
 
@@ -22,6 +21,9 @@ public class ParseHtml {
 
         Document html = Jsoup.parse(sethtml);
         Elements elements = html.select("div#content >ul >li");
+        if (elements.isEmpty()){
+            return "查询不到数据";
+        }
         StringBuilder sb=new StringBuilder();
         for (int i=0;i<=9;i++){
             sb.append(elements.get(i).select("a").first().attr("title")+"\n");

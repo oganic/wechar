@@ -1,6 +1,6 @@
 package com.example.wxrobot.util;
 
-import com.example.wxrobot.entity.HttpDTO;
+import com.example.wxrobot.entity.dto.HttpDTO;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import javax.servlet.ServletInputStream;
+import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
@@ -61,7 +63,14 @@ public class CheckHelp {
     /**
      * 解析发送过来的xml数据
      */
-    public Map<String, String> parseRequest(ServletInputStream inputStream) {
+    public Map<String, String> parseRequest(HttpServletRequest request) {
+
+        ServletInputStream inputStream= null;
+        try {
+            inputStream = request.getInputStream();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         Map<String,String> context=new HashMap<>();
         SAXReader saxReader=new SAXReader();
@@ -77,7 +86,6 @@ public class CheckHelp {
             for (Element element:elements){
                 context.put(element.getName(),element.getStringValue());
             }
-
         } catch (DocumentException e) {
             e.printStackTrace();
         }

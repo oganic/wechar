@@ -5,13 +5,20 @@ system:
   token: Oganic
 
 
+logging:
+  level:
+    root: info
 
+tuling:
+  http-url: http://openapi.tuling123.com/openapi/api/v2
+  api-key:
+    7455b128890341b9bc50e449d4000266,
+    3543514f886c47f2b6478ff3061d7ce9,
+    e1cd28a67c424042bf2a725fee58e52d,
+    faa9ba8cfee64161b0e905354d039301,
 
-# 爬虫配置
-poolinghttpclientconnection:
-  maxTotal: 100
-  maxPerRoute: 10
-  setConnectTimeout: 1000
-  setConnectionRequestTimeout: 1000
-  setSocketTimeout: 10000
-
+taobao:
+  gw: http://gw.api.taobao.com/router/rest
+  eco-tao-bao: https://eco.taobao.com/router/rest
+  app-key: 29279184
+  app-secret: 1b600b16e46457acfb7c6c44973df557

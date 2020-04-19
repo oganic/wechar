@@ -1,4 +1,4 @@
-package com.example.wxrobot.entity;
+package com.example.wxrobot.entity.dto;
 
 
 import lombok.Data;
