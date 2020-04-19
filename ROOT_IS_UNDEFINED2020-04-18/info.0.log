@@ -1,0 +1,16 @@
+[INFO ] 2020-04-18 23:29:17 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7744 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-18 23:29:17 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-18 23:29:17 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-18 23:29:17 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.447 seconds (JVM running for 10.267)
+[INFO ] 2020-04-18 23:29:17 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-18 23:32:20 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 11588 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-18 23:32:20 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-18 23:32:20 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-18 23:32:20 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.056 seconds (JVM running for 8.383)
+[INFO ] 2020-04-18 23:32:20 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-18 23:33:29 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.18.Final
+[INFO ] 2020-04-18 23:33:29 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 12120 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-18 23:33:29 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-18 23:33:29 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-18 23:33:29 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.336 seconds (JVM running for 8.875)
+[INFO ] 2020-04-18 23:33:29 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

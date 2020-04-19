@@ -1,0 +1,200 @@
+[INFO ] 2020-04-19 06:41:02 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 6352 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 06:41:02 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 06:41:02 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:41:02 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.668 seconds (JVM running for 9.511)
+[INFO ] 2020-04-19 06:41:02 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:43:22 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 5692 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 06:43:22 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 06:43:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:43:22 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.501 seconds (JVM running for 9.537)
+[INFO ] 2020-04-19 06:43:22 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:45:06 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 3172 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 06:45:06 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 06:45:06 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:45:06 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.811 seconds (JVM running for 8.574)
+[INFO ] 2020-04-19 06:45:06 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:46:56 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 2020 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 06:46:56 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 06:46:56 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:46:56 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.767 seconds (JVM running for 8.35)
+[INFO ] 2020-04-19 06:46:56 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:47:31 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 4872 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 06:47:31 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 06:47:31 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 06:47:31 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.026 seconds (JVM running for 8.719)
+[INFO ] 2020-04-19 06:47:31 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 07:18:17 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7640 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 07:18:17 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 07:18:17 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 07:18:17 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.308 seconds (JVM running for 7.393)
+[INFO ] 2020-04-19 07:18:17 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:24:05 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 2276 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:24:05 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:24:05 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:24:05 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.482 seconds (JVM running for 7.615)
+[INFO ] 2020-04-19 08:24:05 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:29:44 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8980 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:29:44 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:29:44 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:29:44 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.835 seconds (JVM running for 8.567)
+[INFO ] 2020-04-19 08:29:44 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:32:07 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8456 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:32:07 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:32:07 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:32:07 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.181 seconds (JVM running for 8.554)
+[INFO ] 2020-04-19 08:32:07 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:33:11 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 2276 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:33:11 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:33:11 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:33:11 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.544 seconds (JVM running for 7.438)
+[INFO ] 2020-04-19 08:33:11 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:37:29 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7548 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:37:29 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:37:29 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:37:29 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.451 seconds (JVM running for 9.031)
+[INFO ] 2020-04-19 08:37:29 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:39:34 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8236 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:39:34 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:39:34 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:39:34 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.004 seconds (JVM running for 6.899)
+[INFO ] 2020-04-19 08:39:34 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:54:34 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 6404 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:54:34 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:54:34 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:54:34 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.084 seconds (JVM running for 7.06)
+[INFO ] 2020-04-19 08:54:34 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:59:46 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7692 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 08:59:46 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 08:59:46 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 08:59:46 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.664 seconds (JVM running for 8.017)
+[INFO ] 2020-04-19 08:59:46 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:00:42 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8644 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:00:42 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:00:42 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:00:42 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.892 seconds (JVM running for 8.347)
+[INFO ] 2020-04-19 09:00:42 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:01:22 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 5860 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:01:22 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:01:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:01:22 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.049 seconds (JVM running for 8.896)
+[INFO ] 2020-04-19 09:01:22 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:02:25 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 3152 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:02:25 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:02:25 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:02:25 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.849 seconds (JVM running for 8.307)
+[INFO ] 2020-04-19 09:02:25 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:03:28 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8516 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:03:28 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:03:28 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:03:28 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.058 seconds (JVM running for 8.499)
+[INFO ] 2020-04-19 09:03:28 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:05:23 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 5512 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:05:23 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:05:23 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:05:23 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.015 seconds (JVM running for 8.524)
+[INFO ] 2020-04-19 09:05:23 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:07:10 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7532 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:07:10 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:07:10 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:07:10 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.112 seconds (JVM running for 8.475)
+[INFO ] 2020-04-19 09:07:10 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:07:43 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9144 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:07:43 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:07:43 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:07:43 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 7.19 seconds (JVM running for 9.54)
+[INFO ] 2020-04-19 09:07:43 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:08:49 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7148 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:08:49 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:08:49 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:08:49 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.916 seconds (JVM running for 8.419)
+[INFO ] 2020-04-19 09:08:49 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:09:32 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 4480 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 09:09:32 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 09:09:32 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 09:09:32 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.301 seconds (JVM running for 7.427)
+[INFO ] 2020-04-19 09:09:32 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:12:00 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 3844 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:12:00 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:12:00 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:12:00 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.259 seconds (JVM running for 8.77)
+[INFO ] 2020-04-19 10:12:00 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:18:38 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 7120 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:18:38 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:18:38 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:18:38 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.231 seconds (JVM running for 7.214)
+[INFO ] 2020-04-19 10:18:38 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:23:24 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 2884 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:23:24 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:23:24 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:23:24 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 7.107 seconds (JVM running for 9.348)
+[INFO ] 2020-04-19 10:23:24 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:25:16 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8752 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:25:16 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:25:16 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:25:16 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.325 seconds (JVM running for 7.261)
+[INFO ] 2020-04-19 10:25:16 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:33:22 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8176 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:33:22 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:33:22 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:33:22 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.26 seconds (JVM running for 8.555)
+[INFO ] 2020-04-19 10:33:22 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:01 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8980 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:40:01 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:40:05 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9324 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:40:05 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:40:01 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:01 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 12.26 seconds (JVM running for 15.149)
+[INFO ] 2020-04-19 10:40:05 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:05 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 9.834 seconds (JVM running for 14.451)
+[INFO ] 2020-04-19 10:40:01 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:05 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:54 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9932 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:40:54 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:40:54 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:40:54 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.273 seconds (JVM running for 8.663)
+[INFO ] 2020-04-19 10:40:54 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:41:39 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9596 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:41:39 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:41:39 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:41:39 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.255 seconds (JVM running for 7.099)
+[INFO ] 2020-04-19 10:41:39 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:42:33 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 1892 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:42:33 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:42:33 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:42:33 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.418 seconds (JVM running for 7.272)
+[INFO ] 2020-04-19 10:42:33 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:43:43 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 6344 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:43:43 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:43:43 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:43:43 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.043 seconds (JVM running for 6.868)
+[INFO ] 2020-04-19 10:43:43 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:49:25 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 1224 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 10:49:25 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 10:49:25 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 10:49:25 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.406 seconds (JVM running for 7.488)
+[INFO ] 2020-04-19 10:49:25 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:27:44 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9980 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 11:27:44 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 11:27:44 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:27:44 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.276 seconds (JVM running for 8.86)
+[INFO ] 2020-04-19 11:27:44 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:31:05 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 9084 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 11:31:05 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 11:31:05 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:31:05 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.966 seconds (JVM running for 9.845)
+[INFO ] 2020-04-19 11:31:05 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:33:18 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 6020 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 11:33:18 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 11:33:18 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:33:18 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.122 seconds (JVM running for 8.821)
+[INFO ] 2020-04-19 11:33:18 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:35:30 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8220 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 11:35:30 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 11:35:30 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:35:30 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 6.157 seconds (JVM running for 8.887)
+[INFO ] 2020-04-19 11:35:30 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:37:13 [main] c.e.wxrobot.WxrobotApplicationTests - Starting WxrobotApplicationTests on OGM-PC with PID 8912 (started by OGM in F:\workspace\wxrobot)
+[INFO ] 2020-04-19 11:37:13 [main] c.e.wxrobot.WxrobotApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-04-19 11:37:13 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-04-19 11:37:13 [main] c.e.wxrobot.WxrobotApplicationTests - Started WxrobotApplicationTests in 5.742 seconds (JVM running for 7.752)
+[INFO ] 2020-04-19 11:37:13 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,2 @@
+[DEBUG] 2020-04-18 23:32:20 [background-preinit] o.h.v.m.ResourceBundleMessageInterpolator - Loaded expression factory via original TCCL
+[DEBUG] 2020-04-18 23:32:20 [background-preinit] o.h.v.i.engine.ValidatorFactoryImpl - HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
